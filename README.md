@@ -6,8 +6,7 @@ Call me Techy4Everyone
 
 ![Alt text](https://camo.githubusercontent.com/9889c9e46f96f9b8e0df76e5d706e840e6c29d44f9ac11439c5ab7d2ef07ce21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263685f4c696e75782d3137393344313f7374796c653d666f722d7468652d6261646765266c6f676f3d617263682d6c696e7578266c6f676f436f6c6f723d7768697465)   
 # Languages I use
-
-![Alt text](/home/codeosuser/Downloads/C.webp)
+C, Rust, ASM, Python, C++, TypeScript
 
 # Programming Quote
 ## Talk is cheap.  Show me the code
