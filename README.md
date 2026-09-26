@@ -8,5 +8,5 @@ Call me Techy4Everyone
 # Languages I use
 C, Rust, ASM, Python, C++, TypeScript
 
-*Programming Quote*
+# *Programming Quote*
 ## Talk is cheap.  Show me the code
